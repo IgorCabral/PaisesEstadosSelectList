@@ -106,18 +106,10 @@
             new SelectListItem() {Text = "Ilhas Cocos (Keeling", Value = "Ilhas Cocos (Keeling"},
             new SelectListItem() {Text = "Ilhas Cook", Value = "Ilhas Cook"},
             new SelectListItem() {Text = "Ilhas Feroé", Value = "Ilhas Feroé"},
-            new SelectListItem()
-            {
-                Text = "Ilhas Geórgia do Sul e Sandwich do Sul",
-                Value = "Ilhas Geórgia do Sul e Sandwich do Sul"
-            },
+            new SelectListItem() {Text = "Ilhas Geórgia do Sul e Sandwich do Sul", Value = "Ilhas Geórgia do Sul e Sandwich do Sul"},
             new SelectListItem() {Text = "Ilhas Malvinas", Value = "Ilhas Malvinas"},
             new SelectListItem() {Text = "Ilhas Marshall", Value = "Ilhas Marshall"},
-            new SelectListItem()
-            {
-                Text = "Ilhas Menores Distantes dos Estados Unidos",
-                Value = "Ilhas Menores Distantes dos Estados Unidos"
-            },
+            new SelectListItem() { Text = "Ilhas Menores Distantes dos Estados Unidos", Value = "Ilhas Menores Distantes dos Estados Unidos"},
             new SelectListItem() {Text = "Ilhas Salomão", Value = "Ilhas Salomão"},
             new SelectListItem() {Text = "Ilhas Virgens Americanas", Value = "Ilhas Virgens Americanas"},
             new SelectListItem() {Text = "Ilhas Virgens Britânicas", Value = "Ilhas Virgens Britânicas"},
@@ -213,11 +205,7 @@
             new SelectListItem() {Text = "Saint-Pierre e Miquelon", Value = "Saint-Pierre e Miquelon"},
             new SelectListItem() {Text = "Samoa Americana", Value = "Samoa Americana"},
             new SelectListItem() {Text = "Samoa", Value = "Samoa"},
-            new SelectListItem()
-            {
-                Text = "Santa Helena, Ascensão e Tristão da Cunha",
-                Value = "Santa Helena, Ascensão e Tristão da Cunha"
-            },
+            new SelectListItem() { Text = "Santa Helena, Ascensão e Tristão da Cunha", Value = "Santa Helena, Ascensão e Tristão da Cunha" },
             new SelectListItem() {Text = "Santa Lúcia", Value = "Santa Lúcia"},
             new SelectListItem() {Text = "Senegal", Value = "Senegal"},
             new SelectListItem() {Text = "Serra Leoa", Value = "Serra Leoa"},
@@ -241,16 +229,8 @@
             new SelectListItem() {Text = "Tailândia", Value = "Tailândia"},
             new SelectListItem() {Text = "Taiwan", Value = "Taiwan"},
             new SelectListItem() {Text = "Tanzânia", Value = "Tanzânia"},
-            new SelectListItem()
-            {
-                Text = "Terras Austrais e Antárticas Francesas",
-                Value = "Terras Austrais e Antárticas Francesas"
-            },
-            new SelectListItem()
-            {
-                Text = "Território Britânico do Oceano Índico",
-                Value = "Território Britânico do Oceano Índico"
-            },
+            new SelectListItem() { Text = "Terras Austrais e Antárticas Francesas", Value = "Terras Austrais e Antárticas Francesas"},
+            new SelectListItem() { Text = "Território Britânico do Oceano Índico", Value = "Território Britânico do Oceano Índico"},
             new SelectListItem() {Text = "Timor-Leste", Value = "Timor-Leste"},
             new SelectListItem() {Text = "Togo", Value = "Togo"},
             new SelectListItem() {Text = "Tonga", Value = "Tonga"},
