@@ -307,8 +307,8 @@
     };
 
 
-    var estadosSelectList = AMBO.Cadastro.Helpers.NacionalidadeHelper.estadosBrasil;
-    var paisesSelectList = AMBO.Cadastro.Helpers.NacionalidadeHelper.paisesSelectList;
+    var estadosSelectList = ...NacionalidadeHelper.estadosBrasil;
+    var paisesSelectList = ...NacionalidadeHelper.paisesSelectList;
 
     @Html.LabelFor(model => model.Pais, new { @class = "control-label" })<br />
     @Html.DropDownList("Pais", paisesSelectList, new {@class = "form-control"})
